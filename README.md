@@ -19,7 +19,7 @@ This lab also contains images of UML digrams. They are briefly explained [here](
 
 ## Instructions
 
-1. Clone this lab from Github. Use this link: <git@github.com:rubabahasan/CS222SP26-Lab04.git> Refer to Lab 1 if you need a refresher for how to do so. REMEMBER: when importing, name your folder `firstnameLI-CS222-Lab-04`
+1. Clone this lab from Github. Use this link: <https://github.com/rubabahasan/CS222SP26-Lab04.git> Refer to Lab 1 if you need a refresher for how to do so. REMEMBER: when importing, name your folder `firstnameLI-CS222-Lab-04`
 
 ### Beginning (`Author.java`)
 <p align="center">
